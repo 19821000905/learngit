@@ -1,4 +1,2 @@
-readme
-git is distributed version 
-git is free sofeware
-sunwenhong write
+Git is a disturbuted version control system
+Git is free software distribute under the GPL
